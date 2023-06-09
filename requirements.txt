@@ -37,5 +37,5 @@ thop  # FLOPs computation
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
 # roboflow
-Flask==1.0.2
-gunicorn==19.9.0
+#Flask==1.0.2
+#gunicorn==19.9.0
